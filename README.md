@@ -1,2 +1,2 @@
-# Templete-Two-Html-Css
-Templete Two Using Html&amp;Css
+# Template-Two-Html-Css
+Template Two Using Html&amp;Css
